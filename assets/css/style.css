@@ -35,7 +35,6 @@ body {
 
 .question-area {
     width: 50%;
-    box-sizing: border-box;
     font-size: 2rem;
     margin: auto;
     padding: 50px 0;
@@ -118,6 +117,7 @@ body {
     color: #445361;
     position: relative;
     left: -0.5em;
+
 }
 
 .btn--blue {
